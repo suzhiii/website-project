@@ -128,21 +128,21 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Sample Module Data ---
 const modulesData = {
     Fildis: [
-        { name: "Aralin 1", type: "pdf", path: "modules/fildis/fModule_1.pdf" },
-        { name: "Aralin 2", type: "pdf", path: "modules/fildis/fModule_2.pdf" },
-        { name: "Aralin 3", type: "pdf", path: "modules/fildis/fModule_3.pdf" },
-        { name: "Aralin 4", type: "pdf", path: "modules/fildis/fModule_4.pdf" },
-        { name: "Aralin 5", type: "pdf", path: "modules/fildis/fModule_5.pdf" },
-        { name: "Aralin 7", type: "pdf", path: "modules/fildis/fModule_7.pdf" },
-        { name: "Aralin 8", type: "pdf", path: "modules/fildis/fModule_8.pdf" },
-        { name: "Aralin 9", type: "pdf", path: "modules/fildis/fModule_9.pdf" },
-        { name: "Aralin 10", type: "pdf", path: "modules/fildis/fModule_10.pdf" },
-        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule_11.pdf" },
-        { name: "Aralin 13", type: "pdf", path: "modules/fildis/fModule_13.pdf" },
-        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule_14.pdf" },
-        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule_15.pdf" },
-        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule_16.pdf" },
-        { name: "Aralin 17", type: "pdf", path: "modules/fildis/fModule_17.pdf" }
+        { name: "Aralin 1", type: "pdf", path: "modules/fildis/fModule 1.pdf" },
+        { name: "Aralin 2", type: "pdf", path: "modules/fildis/fModule 2.pdf" },
+        { name: "Aralin 3", type: "pdf", path: "modules/fildis/fModule 3.pdf" },
+        { name: "Aralin 4", type: "pdf", path: "modules/fildis/fModule 4.pdf" },
+        { name: "Aralin 5", type: "pdf", path: "modules/fildis/fModule 5.pdf" },
+        { name: "Aralin 7", type: "pdf", path: "modules/fildis/fModule 7.pdf" },
+        { name: "Aralin 8", type: "pdf", path: "modules/fildis/fModule 8.pdf" },
+        { name: "Aralin 9", type: "pdf", path: "modules/fildis/fModule 9.pdf" },
+        { name: "Aralin 10", type: "pdf", path: "modules/fildis/fModule 10.pdf" },
+        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule 11.pdf" },
+        { name: "Aralin 13", type: "pdf", path: "modules/fildis/fModule 13.pdf" },
+        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule 14.pdf" },
+        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule 15.pdf" },
+        { name: "Aralin 14", type: "pdf", path: "modules/fildis/fModule 16.pdf" },
+        { name: "Aralin 17", type: "pdf", path: "modules/fildis/fModule 17.pdf" }
     ],
     Komfil: [
         { name: "Aralin 1", type: "pdf", path: "modules/komfil/kModule 1.pdf" },
