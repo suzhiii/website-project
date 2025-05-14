@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Sample Module Data ---
 const modulesData = {
     Fildis: [
-        { name: "Aralin 1", type: "pdf", path: "modules/fildis/fModule_1.pdf" },
+        { name: "Aralin 1", type: "pdf", path: "public/modules/fildis/fModule_1.pdf" },
         { name: "Aralin 2", type: "pdf", path: "modules/fildis/fModule_2.pdf" },
         { name: "Aralin 3", type: "pdf", path: "modules/fildis/fModule_3.pdf" },
         { name: "Aralin 4", type: "pdf", path: "modules/fildis/fModule_4.pdf" },
