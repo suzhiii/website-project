@@ -220,7 +220,7 @@ const modulesData = {
                     <h3>${module.name}</h3>
                     <div class="actions">
                         ${module.type !== 'link' ? `<button class="view-btn" data-path="${module.path}" data-type="${module.type}">Tingnan</button>` : ''}
-                        <a href="${module.path}" ${module.type !== 'link' ? 'download' : 'target="_blank" rel="noopener noreferrer"'}><button>
+                        <a href="${encodeURI(module.path)}" ${module.type !== 'link' ? 'download' : ''} target="_blank" rel="noopener noreferrer"><button>
                             ${module.type === 'link' ? 'Open Link' : 'Ipresenta'}
                         </button></a>
                     </div>
