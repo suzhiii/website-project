@@ -135,6 +135,7 @@ const modulesData = {
         { name: "Aralin 5", type: "pdf", path: "modules/fildis/Module 5.pdf" },
         { name: "Aralin 7", type: "pdf", path: "modules/fildis/Module 7.pdf" },
         { name: "Aralin 8", type: "pdf", path: "modules/fildis/Module 8.pdf" },
+        { name: "Aralin 9", type: "pdf", path: "modules/fildis/Module 9.pdf" },
         { name: "Aralin 10", type: "pdf", path: "modules/fildis/Module 10.pdf" },
         { name: "Aralin 14", type: "pdf", path: "modules/fildis/Module 11.pdf" },
         { name: "Aralin 13", type: "pdf", path: "modules/fildis/Module 13.pdf" },
