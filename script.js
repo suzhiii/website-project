@@ -145,7 +145,7 @@ const modulesData = {
         { name: "Aralin 17", type: "pdf", path: "modules/fildis/fModule_17.pdf" }
     ],
     Komfil: [
-        { name: "Aralin 1", type: "pdf", path: "modules/komfil/kModule 1.pdf" },
+        { name: "Aralin 1", type: "pdf", path: "modules/komfil/kModule%201.pdf" },
         { name: "Aralin 2", type: "pdf", path: "modules/komfil/kModule 2.pdf" },
         { name: "Aralin 3", type: "pdf", path: "modules/komfil/kModule 3.pdf" },
         { name: "Aralin 4", type: "pdf", path: "modules/komfil/kModule 4.pdf" },
